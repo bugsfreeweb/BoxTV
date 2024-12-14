@@ -1,7 +1,7 @@
 if (location.hostname === "localhost" || location.hostname === "127.0.0.1") {
-  var infile = "bugsfreetv.json";
+  var infile = "lib/bugsfreetv.json";
 } else {
-  var infile = "https://boxtv.netlify.app/bugsfreetv.json";
+  var infile = "https://boxtv.netlify.app/lib/bugsfreetv.json";
 }
 const sectionA = document.querySelector("section");
 var mainelem = document.createElement("main");
