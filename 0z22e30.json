@@ -1,7 +1,7 @@
 [
   ["name", "category", "image", "url"],
 
-  ["Welcome", "welcome", "tvbox/welcome.jpg", "tvbox/1-airport-uk.mp3"],
+  ["Welcome", "welcome", "tvbox/welcome.png", "tvbox/1-airport-uk.mp3"],
   
   ["Aaj Tak", "news", "tvbox/aajtak.webp", "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8"],
 
