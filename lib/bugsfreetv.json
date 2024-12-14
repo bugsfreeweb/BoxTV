@@ -2,7 +2,7 @@
   ["name", "category", "image", "url"],  
   ["Welcome", "welcome", "img/welcome.png", "tvbox/1-airport-uk.mp3"],
   
-  ["PEACE TV-EN", "LIFESTYLE", "https://i.ibb.co/598TYnC/20240827-092020.png", "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"],
+  ["PEACE TV-EN", "LIFESTYLE", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMRcMn7rIaTC7R3sEVXUacNGvgI0-01rjeVA&s", "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"],
   ["boishakhi TV", "REGIONAL", "image", "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"],
   ["JAMUNA TV", "REGIONAL", "image", "https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8"],
   ["TVNAME", "TVCATEGORY", "image", "url"],
