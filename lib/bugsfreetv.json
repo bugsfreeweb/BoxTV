@@ -1,6 +1,6 @@
 [
   ["name", "category", "image", "url"],  
-  ["Welcome", "welcome", "img/welcome.png", "img/1-airport-uk.mp3"],
+  ["Welcome", "welcome", "img/welcome.png", "tvbox/1-airport-uk.mp3"],
   
   ["Aaj Tak", "news", "tvbox/aajtak.webp", "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8"],
   
@@ -14,6 +14,6 @@
   
   ["Zee Hindustan", "news", "tvbox/zeehindustan.jpg", "https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8"],
   
-  ["The End", "welcome notavailable", "img/welcome.png", "img/1-bus-talking.mp3"]
+  ["The End", "welcome notavailable", "img/welcome.png", "tvbox/1-bus-talking.mp3"]
     
   ]
