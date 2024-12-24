@@ -5,6 +5,11 @@
   ["PEACE TV-EN", "LIFESTYLE", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMRcMn7rIaTC7R3sEVXUacNGvgI0-01rjeVA&s", "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"],
   ["Madani TV", "Lifestyle", "https://s2.qwant.com/thumbr/404x316/5/a/8ecb94a9887b5f3aef44b905ed377850d4aeed9738ab3b962d60af5476bce0/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.xGI0k8ZLZQcfauz7zqzaNwAAAA%26pid%3DApi&q=0&b=1&p=0&a=0", "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"],
   ["Makkah TV", "Lifestyle", "https://i.ibb.co/TtHtGkW/20240803-172601.png", "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8"],
+  
+  ["Machranga TV", "REGIONAL", "https://s2.qwant.com/thumbr/474x266/5/3/cc4159fa46b73e254cadc616876c192356a52c335fbeebde0c9d0585794dab/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.gzqRUuPP1hgGy8uV2XHi5QHaEK%26pid%3DApi&q=0&b=1&p=0&a=0", "https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8"],
+  ["Boishakhi TV", "REGIONAL", "image", "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"],
+  ["JAMUNA TV", "REGIONAL", "image", "https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8"],  
+  
   ["INDEPENDENT TV", "REGIONAL", "image", "https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8"],
   ["SOMOY TV", "REGIONAL", "image", "https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8"],
   ["FOOD NETWORK", "REGIONAL", "image", "https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8"],
@@ -12,9 +17,7 @@
   ["ALJAZEERA", "REGIONAL", "https://s2.qwant.com/thumbr/474x316/4/a/fe4530c5e913c4109eeab276688d11d208fbc2bef1422029b3fe4f6a9e2073/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.enY5NadAVG-ju6EerE3olwHaE8%26pid%3DApi&q=0&b=1&p=0&a=0", "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8"],
   ["BOLLYWOOD HD", "REGIONAL", "https://s1.qwant.com/thumbr/474x266/8/d/de011511de553786ed439497a244f2a67875f5d63ce379aef5aab8d50ad644/th.jpg?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%3Fid%3DOIP.gkhE5SkgGh8JnPSIZQ27TQHaEK%26pid%3DApi&q=0&b=1&p=0&a=0", "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8"],
 
-  ["Machranga TV", "REGIONAL", "https://s2.qwant.com/thumbr/474x266/5/3/cc4159fa46b73e254cadc616876c192356a52c335fbeebde0c9d0585794dab/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.gzqRUuPP1hgGy8uV2XHi5QHaEK%26pid%3DApi&q=0&b=1&p=0&a=0", "https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8"],
-  ["Boishakhi TV", "REGIONAL", "image", "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"],
-  ["JAMUNA TV", "REGIONAL", "image", "https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8"],  
+  
   ["Aaj Tak", "news", "https://i.ytimg.com/vi/6Ct55tFJCPI/hqdefault.jpg?v=675b0da4", "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8"],  
   ["Aaj Tak HD", "news", "https://i.ytimg.com/vi/6Ct55tFJCPI/hqdefault.jpg?v=675b0da4", "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8"],  
   ["ABP Hindi", "news", "https://static.vidgyor.com/player/account/abp/img/ABP-Hindi.png", "https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master_720.m3u8"],      
